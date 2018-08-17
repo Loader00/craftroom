@@ -1,0 +1,10 @@
+body {text-align: center; margin: 0 10% 10% 10%; width: 80%; color: #FA8258; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bold; font-size: 13px;}
+
+a:link, :visited, :active{color:#FA8258;}
+
+
+#write{width: 70%;}
+#writer{width: 10%;}
+#date{width: 15%;}
+#views{width: 5%;}
